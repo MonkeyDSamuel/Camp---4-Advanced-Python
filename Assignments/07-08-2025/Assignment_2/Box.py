@@ -11,8 +11,6 @@ Assignment 2: Box Volume Calculation (with method)
 '''
 
 class Box:
-    def __init__(self):
-        pass
     def volume(self,height,width,depth):
         return height*width*depth
 
